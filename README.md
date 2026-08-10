@@ -77,7 +77,7 @@ This project solves all of it:
 
 ```bash
 git clone https://github.com/Abhiojiki/Clinic-appointment-voicebot.git
-cd AIReceptionist
+cd Clinic-appointment-voicebot
 pip install -e .
 ```
 
