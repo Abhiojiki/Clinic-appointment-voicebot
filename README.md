@@ -76,7 +76,7 @@ This project solves all of it:
 1. **Clone and install:**
 
 ```bash
-git clone https://github.com/kirklandsig/AIReceptionist.git
+git clone https://github.com/Abhiojiki/Clinic-appointment-voicebot.git
 cd AIReceptionist
 pip install -e .
 ```
